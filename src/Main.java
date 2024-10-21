@@ -10,5 +10,6 @@ public class Main {
         for (int i = 0; i < noms.length; i++) {
             System.out.println(noms[i]);
         }
+        //jordi
     }
 }
