@@ -4,7 +4,7 @@ public class Main {
 
         float[] scores = new float[5];
 
-        String[] noms = {"Pau", "Alex", "Maria", "Joel", "Carla"};
+        String[] noms = {"Pau", "Alex", "Maria", "Joel", "Carla", "Joan", "Naiara"};
         System.out.println(noms[1]);
 
         for (int i = 0; i < noms.length; i++) {
